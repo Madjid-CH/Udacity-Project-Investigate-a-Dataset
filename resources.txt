@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+https://video.udacity-data.com/topher/2021/April/60836404_data-analyst-project-cheat-sheet/data-analyst-project-cheat-sheet.pdf
+https://pandas.pydata.org/docs/reference/index.html
+https://seaborn.pydata.org/api.html
+https://app.datacamp.com/workspace/w/841d14b3-fe62-4749-9eb7-cd18d35907f7
+https://app.datacamp.com/workspace/w/033414f2-a801-472b-8ec9-948b86cbd282
